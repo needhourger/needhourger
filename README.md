@@ -3,7 +3,7 @@
  * @Author: cc
  * @Date: 2021-11-17 18:06:36
  * @LastEditors: cc
- * @LastEditTime: 2021-11-17 18:42:00
+ * @LastEditTime: 2021-11-17 18:50:12
 -->
 # Hey, I'm Yuuki
 
@@ -11,7 +11,7 @@
 * Trying to learn more about everything
 * Wish freedom with all my life
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **needhourger/needhourger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
