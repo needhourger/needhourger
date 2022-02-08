@@ -5,11 +5,7 @@
  * @LastEditors: cc
  * @LastEditTime: 2021-11-17 18:50:12
 -->
-# Hey, I'm Yuuki
-
-* A green hand coder
-* Trying to learn more about everything
-* Wish freedom with all my life
+# Hi, there !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
