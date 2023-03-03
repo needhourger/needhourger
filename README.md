@@ -7,7 +7,11 @@
 -->
 # Hi, there !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+* Here is a shallow ( senior's antonym in Chinese, lol~ ) coder.
+* And, I am still trying to find something interesting.
+* Wish you have a nice day ~
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=needhourger&show_icons=true&count_private=true&theme=transparent&line_height=28)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&layout=compact&langs_count=10&count_private=true&theme=transparent&hide=c,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **needhourger/needhourger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
