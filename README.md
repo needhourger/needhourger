@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+~;My+name+is+Ceil+Chin;You+can+just+call+me+CC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+~;My+name+is+Yuuki;You+can+also+call+me+cc)](https://git.io/typing-svg)
 
 [![wakatime](https://wakatime.com/badge/user/ac0cbe44-569d-454f-8e8a-6f104bae9f5b.svg)](https://wakatime.com/@ac0cbe44-569d-454f-8e8a-6f104bae9f5b)
 
