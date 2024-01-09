@@ -1,27 +1,43 @@
-<!--
- * @Description: 
- * @Author: cc
- * @Date: 2021-11-17 18:06:36
- * @LastEditors: cc
- * @LastEditTime: 2021-11-17 18:50:12
--->
-# Hi, there !
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+~;My+name+is+Ceil+Chin;You+can+just+call+me+CC)](https://git.io/typing-svg)
+
 [![wakatime](https://wakatime.com/badge/user/ac0cbe44-569d-454f-8e8a-6f104bae9f5b.svg)](https://wakatime.com/@ac0cbe44-569d-454f-8e8a-6f104bae9f5b)
 
-- 😆 Here is a shallow ( senior's antonym in Chinese, lol~ ) coder.
+<img align=right src="https://github-readme-stats.vercel.app/api?username=needhourger&show_icons=true&count_private=true&theme=transparent&line_height=28">
+
+- 😄 Pronouns: She/Her
+- 😆 A shallow ( senior's antonym in Chinese, lol~ ) coder.
 - 🕶️ Enthusiast of ACG (Yuuki Konno さいこう!) and DIY. 
 - 💌 Become a coder because of love for creation.
 - 🔥 A full-stack enginer currently (maybe)...
 - 🏇 Still striving to find the ideal life and pursue my dreams.
 - 😸 Hope yo have a pleasant day ~
 
-[![wakatime stats](https://wakatime.com/share/@needhourger/50a75d6d-a0a0-4d7b-ab60-43dc945b7559.svg)](https://wakatime.com)
+&nbsp;
 
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=needhourger&show_icons=true&count_private=true&theme=transparent&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img width="36%" height=200 align=left src=https://readme-jokes.vercel.app/api>
+  <img width="60%" height=200 align=right src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+    
+**Waka Time**
+----
 
-## Wakatime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align=right height=150 src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">
+  <img src=https://wakatime.com/share/@needhourger/50a75d6d-a0a0-4d7b-ab60-43dc945b7559.svg>
+</p>
+
+<p>
+  <img width=40% height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
+  <img width=55% height=350 src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
+</p>
+
+<p align=center>
+  <img align=center src=https://profile-counter.glitch.me/needhourger/count.svg>
+</p>
+
+
+
 
 <!--
 **needhourger/needhourger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
