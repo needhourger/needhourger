@@ -38,7 +38,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
-<p style='display:flex; justify-content:center'>
+<p style='display:flex; justify-content:center; width:100%'>
   <img align=center src=https://profile-counter.glitch.me/needhourger/count.svg>
 </p>
 
