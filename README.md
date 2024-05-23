@@ -33,7 +33,7 @@
 
 
 
-<p style="display:flex; gap:20px; width:100%; justify-content:center; margin-bottom:20px">
+<p style="display:flex; gap:20px; width:100%; justify-content:center; margin-bottom:20px; height:150px;">
   <img src=https://readme-jokes.vercel.app/api>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
