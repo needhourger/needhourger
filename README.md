@@ -34,8 +34,8 @@
 
 
 <p style="display:flex; gap:20px; width:100%; justify-content:center; margin-bottom:20px">
-  <img width=40% src=https://readme-jokes.vercel.app/api>
-  <img width=60% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src=https://readme-jokes.vercel.app/api>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 <p style='display:flex; justify-content:center'>
