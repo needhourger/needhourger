@@ -27,8 +27,8 @@
 </p>
 
 <p style='display:flex; gap:10px; height: 300px; width:100%; margin-bottom:20px; justify-content:center;'>
-  <img height=100%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
-  <img height=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
+  <img height=100% width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
+  <img height=100% width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
 </p>
 
 
