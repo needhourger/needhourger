@@ -36,9 +36,9 @@
 <img width=100% src=https://wakatime.com/share/@needhourger/50a75d6d-a0a0-4d7b-ab60-43dc945b7559.svg>
 </p>
 
-<p style='display:inline-flex; gap:8px; height: 300px; width:100%; margin-bottom:20px; justify-content:center;'>
-  <img height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
-  <img height='300px'src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
+<p align='center'>
+  <img height='350px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
+  <img height='350px' src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
 </p>
 
 <!-- <p style="display:inline-flex; gap:20px; width:100%; justify-content:center; margin-bottom:20px; height:150px;">
@@ -46,11 +46,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p> -->
 
-<p style='display:flex; justify-content:center; width:100%'>
-  <img align='center' src=https://profile-counter.glitch.me/needhourger/count.svg>
+
+
+<p align='center'>
+<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">
 </p>
 
-<img width="100%" src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">
+
+<p align='center'>
+  <img src=https://profile-counter.glitch.me/needhourger/count.svg>
+</p>
 
 <!--
 **needhourger/needhourger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
