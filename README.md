@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,pytorch,go,java,kotlin,nodejs,js,ts,html,css,scss,less,markdown,c,cpp,vue,pinia,vite,vitest,angular,react,tailwind,nextjs)](https://skillicons.dev)
 
 ## My Stacks
-> Database, operation system and tools that I have worked with.
+> Database, operation system and tools ever worked with.
 
 [![editor](https://skillicons.dev/icons?i=vscode,androidstudio,vim,neovim,visualstudio,eclipse,linux,arch,ubuntu,kali,windows,debian,raspberrypi,docker,bash,git,github,gitlab,gradle,maven,anaconda,npm,yarn,nginx,vercel)](https://skillicons.dev)
 
@@ -36,9 +36,9 @@
 <img width=100% src=https://wakatime.com/share/@needhourger/50a75d6d-a0a0-4d7b-ab60-43dc945b7559.svg>
 </p>
 
-<p style='display:inline-flex; gap:10px; height: 300px; width:100%; margin-bottom:20px; justify-content:center;'>
-  <img height=100% width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
-  <img height=100% width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
+<p style='display:inline-flex; gap:8px; height: 300px; width:100%; margin-bottom:20px; justify-content:center;'>
+  <img height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=needhourger&theme=transparent&layout=donut&langs_count=10&custom_title=Github+Reporsitory+Lang+Count">
+  <img height='300px'src="https://github-readme-stats.vercel.app/api/wakatime?username=needhourger&layout=compact&langs_count=20&theme=transparent&custom_title=Wakatime+Lang+count">
 </p>
 
 <!-- <p style="display:inline-flex; gap:20px; width:100%; justify-content:center; margin-bottom:20px; height:150px;">
@@ -47,7 +47,7 @@
 </p> -->
 
 <p style='display:flex; justify-content:center; width:100%'>
-  <img align=center src=https://profile-counter.glitch.me/needhourger/count.svg>
+  <img align='center' src=https://profile-counter.glitch.me/needhourger/count.svg>
 </p>
 
 <img width="100%" src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">
