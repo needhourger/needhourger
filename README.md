@@ -19,15 +19,16 @@
 </p>
 
 ## My Skills
+
 > Language & frameworks ever used
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,pytorch,go,java,kotlin,nodejs,js,ts,html,css,scss,less,markdown,c,cpp,rust,vue,pinia,vite,vitest,angular,react,tailwind,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,pytorch,go,java,kotlin,nodejs,bun,js,ts,html,css,scss,less,markdown,c,cpp,rust,vue,pinia,vite,vitest,angular,react,tailwind,nextjs,nuxtjs)](https://skillicons.dev)
 
 ## My Stacks
+
 > Database, operation system and tools ever worked with.
 
-[![editor](https://skillicons.dev/icons?i=vscode,androidstudio,vim,neovim,visualstudio,idea,eclipse,linux,arch,ubuntu,kali,debian,windows,mysql,redis,sqlite,mongodb,bun,cmake,cloudflare,gmail,raspberrypi,docker,bash,git,github,gitlab,gradle,maven,anaconda,npm,yarn,nginx,vercel,figma,kafka,githubactions,ai)](https://skillicons.dev)
-
+[![editor](https://skillicons.dev/icons?i=vscode,cursor,androidstudio,vim,neovim,visualstudio,idea,eclipse,linux,arch,ubuntu,kali,debian,windows,mysql,redis,sqlite,mongodb,bun,cmake,cloudflare,gmail,raspberrypi,docker,bash,git,github,gitlab,gradle,maven,anaconda,npm,yarn,nginx,vercel,figma,kafka,githubactions,ai)](https://skillicons.dev)
 
 <p>
 
